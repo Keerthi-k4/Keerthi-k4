@@ -51,8 +51,8 @@ I'm a dedicated Computer Science undergraduate passionate about building intelli
 
 ### 📫 Reach Me
 📧 **Email**: keerthi2004kk@gmail.com  
-💼 **LinkedIn**: [Keerthi K](https://www.linkedin.com/in/keerthi-k-396bb328b)  
-🌐 **Portfolio**: [My Work](#)
+💼 **LinkedIn**: [Keerthi K](https://www.linkedin.com/in/keerthi-k19/)  
+🌐 **Portfolio**: [Visit My Portfolio](https://portfolio-keerthi-k.vercel.app/)
 
 ---
 
