@@ -6,14 +6,6 @@
 
 I'm a dedicated Computer Science undergraduate passionate about building intelligent systems that bridge the gap between AI, full-stack development, and data engineering. From deploying scalable AI models to building interactive web platforms and secure systems, I enjoy tackling real-world problems that create impact.
 
-🔍 **Current Focus**:  
-- Building intelligent systems that combine AI, ML, and real-time data
-- Experimenting with multimodal models, retrieval-augmented generation (RAG), and hybrid reasoning
-- Designing scalable full-stack applications that are smart, responsive, and user-friendly
-- Diving into distributed computing & big data pipelines for real-time analytics
-- Exploring federated and privacy-conscious systems for health, lifestyle, and finance
-- Staying curious about anything that blends creativity, logic, and impact
-
 ---
 
 ### 🛠️ Tech Stack
@@ -29,16 +21,6 @@ I'm a dedicated Computer Science undergraduate passionate about building intelli
 - React.js, Node.js, Express.js, HTML/CSS, MongoDB, MySQL, PostgreSQL
 #### 🛠️ DevOps & Tools
 - Docker, Git, Linux CLI, Google Colab, Postman, VSCode
-
----
-
-### 🌟 Featured Projects
-
-📌 **FinSage** – Full-stack personal finance assistant with LLM support, SMS parsing, and budget forecasting  
-📌 **Smart Lifestyle Planner** – Diet & workout recommender with multimodal input (QR/image/text) and federated logging  
-📌 **PDF QA Bot** – Multimodal RAG system for intelligent document querying with CoT/ToT reasoning  
-📌 **Real-Time Task Queue System** – Distributed task handler using Kafka & Redis  
-📌 **Typing Game Web App** – Gamified typing test using React + Node + WebSocket
 
 ---
 
